@@ -1,0 +1,8 @@
+*.rock
+*.charm
+build/
+.gradle/
+.tox/
+.venv/
+.opensearch-env
+*.pem
